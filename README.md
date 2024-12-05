@@ -1,7 +1,3 @@
-Here’s the full text for easy copying:
-
----
-
 # Layout Creative Bakery
 
 ## Project Overview
